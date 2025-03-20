@@ -1,0 +1,20 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "A comprehensive recipe management application available as both a cross-platform mobile app (Android/iOS) and a responsive website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahuatl-Mexica/recipe-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahuatl-Mexica/recipe-app/issues"
+  },
+  "homepage": "https://github.com/Nahuatl-Mexica/recipe-app#readme"
+}
